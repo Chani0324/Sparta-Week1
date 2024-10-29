@@ -10,6 +10,6 @@ public class SpringPrepareApplication {
         SpringApplication.run(SpringPrepareApplication.class, args);
     }
         public void Test() {
-
+            System.out.println("hello");
         }
 }
