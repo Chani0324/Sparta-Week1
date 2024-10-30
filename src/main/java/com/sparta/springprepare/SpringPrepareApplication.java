@@ -13,5 +13,7 @@ public class SpringPrepareApplication {
             System.out.println("hello");
             System.out.println("new commit");
             System.out.println("new commit 2");
+
+            System.out.println("release");
         }
 }
